@@ -1,0 +1,23 @@
+body{
+  height: 95vh;
+  width: 95;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: rgb(115, 206, 208)
+}
+
+h1{
+  font-size: 25px;
+  margin-top: 0em;
+  color:rgb(115, 206, 208)
+}
+
+p{
+  font-size: 20px;
+}
+
+div.col{
+  padding: 5px;
+}
